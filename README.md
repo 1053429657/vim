@@ -118,6 +118,9 @@ YCM集成了[Syntastic](https://github.com/scrooloose/syntastic),
 2015.2.9更新
 1. 加入`scturtle/vim-instant-markdown-py`
 
+2019.09.25
+1.添加bin/ack  ctags  tree可执行文件，使用时将该这三个可执行文件cpoy到~/bin即可
+
 
 
 
