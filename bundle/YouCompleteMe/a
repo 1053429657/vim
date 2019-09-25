@@ -1,0 +1,176 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.026  000.026: --- VIM STARTING ---
+000.179  000.153: Allocated generic buffers
+000.278  000.099: locale set
+000.291  000.013: window checked
+000.765  000.474: inits 1
+000.773  000.008: parsing arguments
+000.775  000.002: expanding arguments
+000.849  000.074: shell init
+002.283  001.434: Termcap init
+002.304  000.021: inits 2
+002.397  000.093: init highlight
+005.219  000.220  000.220: sourcing /usr/share/vim/vim74/debian.vim
+010.647  000.209  000.209: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+011.598  002.965  002.756: sourcing /usr/share/vim/vim74/syntax/synload.vim
+046.324  032.389  032.389: sourcing /usr/share/vim/vim74/filetype.vim
+047.903  041.341  005.987: sourcing /usr/share/vim/vim74/syntax/syntax.vim
+048.676  045.252  003.691: sourcing $VIM/vimrc
+054.281  000.673  000.673: sourcing /usr/share/vim/vim74/ftoff.vim
+059.273  000.310  000.310: sourcing /home/daniel/.vim/bundle/vundle/autoload/vundle.vim
+062.423  000.193  000.193: sourcing /home/daniel/.vim/bundle/vundle/autoload/vundle/config.vim
+077.383  026.343  025.167: sourcing /home/daniel/.vim/config/plugins.vim
+080.615  000.143  000.143: sourcing /usr/share/vim/vim74/syntax/nosyntax.vim
+087.907  000.161  000.161: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+091.338  007.131  006.970: sourcing /usr/share/vim/vim74/syntax/synload.vim
+119.997  000.147  000.147: sourcing /home/daniel/.vim/bundle/ultisnips/ftdetect/snippets.vim
+123.020  000.147  000.147: sourcing /home/daniel/.vim/bundle/vim-protobuf/ftdetect/proto.vim
+125.397  000.200  000.200: sourcing /home/daniel/.vim/bundle/vim-qml/ftdetect/qml.vim
+127.496  000.328  000.328: sourcing /home/daniel/.vim/bundle/vim-bitbake/ftdetect/bitbake.vim
+132.888  037.933  037.111: sourcing /usr/share/vim/vim74/filetype.vim
+136.410  056.867  011.660: sourcing /usr/share/vim/vim74/syntax/syntax.vim
+138.637  000.433  000.433: sourcing /usr/share/vim/vim74/syntax/nosyntax.vim
+145.892  000.198  000.198: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+150.521  008.372  008.174: sourcing /usr/share/vim/vim74/syntax/synload.vim
+150.656  013.300  004.495: sourcing /usr/share/vim/vim74/syntax/syntax.vim
+154.868  000.032  000.032: sourcing /usr/share/vim/vim74/filetype.vim
+161.342  000.108  000.108: sourcing /usr/share/vim/vim74/ftplugin.vim
+168.518  000.083  000.083: sourcing /usr/share/vim/vim74/indent.vim
+171.530  092.939  022.549: sourcing /home/daniel/.vim/config/settings.vim
+177.823  000.190  000.190: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+185.245  000.212  000.212: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+192.001  000.189  000.189: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+195.136  021.204  020.613: sourcing /home/daniel/.vim/bundle/molokai/colors/molokai.vim
+201.022  000.196  000.196: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+207.820  000.188  000.188: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+214.466  000.182  000.182: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+218.048  021.241  020.675: sourcing /home/daniel/.vim/bundle/molokai/colors/molokai.vim
+224.708  000.190  000.190: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+233.040  000.198  000.198: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+239.535  000.183  000.183: sourcing /usr/share/vim/vim74/syntax/syncolor.vim
+242.744  021.999  021.428: sourcing /home/daniel/.vim/bundle/molokai/colors/molokai.vim
+242.947  070.330  005.886: sourcing /home/daniel/.vim/config/snippets.vim
+244.682  000.152  000.152: sourcing /home/daniel/.vim/config/mappings.vim
+244.729  194.950  005.186: sourcing $HOME/.vimrc
+244.754  002.155: sourcing vimrc file(s)
+248.371  000.189  000.189: sourcing /home/daniel/.vim/plugin/md-live.vim
+253.164  000.193  000.193: sourcing /home/daniel/.vim/bundle/The-NERD-tree/autoload/nerdtree.vim
+255.609  000.548  000.548: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/path.vim
+257.204  000.221  000.221: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/menu_controller.vim
+258.908  000.111  000.111: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/menu_item.vim
+260.568  000.154  000.154: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/key_map.vim
+262.352  000.385  000.385: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/bookmark.vim
+264.664  000.734  000.734: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/tree_file_node.vim
+266.615  000.430  000.430: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/tree_dir_node.vim
+268.374  000.310  000.310: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/opener.vim
+270.179  000.282  000.282: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/creator.vim
+271.679  000.073  000.073: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/flag_set.vim
+273.249  000.126  000.126: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/nerdtree.vim
+275.144  000.483  000.483: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/ui.vim
+278.896  000.097  000.097: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/event.vim
+280.792  000.081  000.081: sourcing /home/daniel/.vim/bundle/The-NERD-tree/lib/nerdtree/notifier.vim
+282.883  000.535  000.535: sourcing /home/daniel/.vim/bundle/The-NERD-tree/autoload/nerdtree/ui_glue.vim
+299.285  000.132  000.132: sourcing /home/daniel/.vim/bundle/The-NERD-tree/nerdtree_plugin/exec_menuitem.vim
+300.699  000.436  000.436: sourcing /home/daniel/.vim/bundle/The-NERD-tree/nerdtree_plugin/fs_menu.vim
+312.299  061.041  055.710: sourcing /home/daniel/.vim/bundle/The-NERD-tree/plugin/NERD_tree.vim
+315.794  001.071  001.071: sourcing /home/daniel/.vim/bundle/tagbar/plugin/tagbar.vim
+318.683  000.485  000.485: sourcing /home/daniel/.vim/bundle/auto-pairs/plugin/auto-pairs.vim
+323.071  000.272  000.272: sourcing /home/daniel/.vim/bundle/ctrlp.vim/autoload/ctrlp/mrufiles.vim
+323.377  002.328  002.056: sourcing /home/daniel/.vim/bundle/ctrlp.vim/plugin/ctrlp.vim
+326.829  000.603  000.603: sourcing /home/daniel/.vim/bundle/matchit.zip/plugin/matchit.vim
+331.148  001.061  001.061: sourcing /home/daniel/.vim/bundle/YouCompleteMe/plugin/youcompleteme.vim
+336.102  000.182  000.182: sourcing /home/daniel/.vim/bundle/ultisnips/autoload/UltiSnips/map_keys.vim
+336.432  002.625  002.443: sourcing /home/daniel/.vim/bundle/ultisnips/plugin/UltiSnips.vim
+339.165  000.065  000.065: sourcing /home/daniel/.vim/bundle/vim-snippets/plugin/vimsnippets.vim
+342.466  001.085  001.085: sourcing /home/daniel/.vim/bundle/a.vim/plugin/a.vim
+344.951  000.167  000.167: sourcing /home/daniel/.vim/bundle/ag.vim/plugin/ag.vim
+351.546  001.137  001.137: sourcing /home/daniel/.vim/bundle/ctrlsf.vim/autoload/ctrlsf/backend.vim
+353.180  004.957  003.820: sourcing /home/daniel/.vim/bundle/ctrlsf.vim/plugin/ctrlsf.vim
+358.318  000.218  000.218: sourcing /home/daniel/.vim/bundle/vim-gitgutter/autoload/gitgutter/utility.vim
+361.259  000.151  000.151: sourcing /home/daniel/.vim/bundle/vim-gitgutter/autoload/gitgutter/highlight.vim
+362.135  006.476  006.107: sourcing /home/daniel/.vim/bundle/vim-gitgutter/plugin/gitgutter.vim
+365.102  000.309  000.309: sourcing /home/daniel/.vim/bundle/accelerated-smooth-scroll/plugin/ac_smooth_scroll.vim
+367.896  000.216  000.216: sourcing /home/daniel/.vim/bundle/accelerated-jk/plugin/accelerated-jk.vim
+375.582  005.341  005.341: sourcing /home/daniel/.vim/bundle/nerdcommenter/plugin/NERD_commenter.vim
+381.289  000.191  000.191: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline.vim
+383.919  000.226  000.226: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/init.vim
+387.217  000.162  000.162: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/parts.vim
+388.190  009.886  009.307: sourcing /home/daniel/.vim/bundle/vim-airline/plugin/airline.vim
+390.799  000.251  000.251: sourcing /home/daniel/.vim/bundle/vim-trailing-whitespace/plugin/trailing-whitespace.vim
+393.191  000.049  000.049: sourcing /home/daniel/.vim/bundle/tmuxline.vim/plugin/tmuxline.vim
+395.421  000.080  000.080: sourcing /home/daniel/.vim/bundle/rainbow_parentheses.vim/plugin/rainbow_parentheses.vim
+398.126  000.226  000.226: sourcing /home/daniel/.vim/bundle/vim-cmake/plugin/cmake.vim
+410.358  000.306  000.306: sourcing /home/daniel/.vim/bundle/Conque-GDB/plugin/conque_term.vim
+416.212  008.951  008.645: sourcing /home/daniel/.vim/bundle/Conque-GDB/autoload/conque_term.vim
+416.328  012.225  003.274: sourcing /home/daniel/.vim/bundle/Conque-GDB/autoload/conque_gdb.vim
+570.079  169.279  157.054: sourcing /home/daniel/.vim/bundle/Conque-GDB/plugin/conque_gdb.vim
+571.064  000.034  000.034: sourcing /home/daniel/.vim/bundle/Conque-GDB/plugin/conque_term.vim
+574.442  000.275  000.275: sourcing /home/daniel/.vim/bundle/DrawIt/plugin/DrawItPlugin.vim
+576.134  000.676  000.676: sourcing /home/daniel/.vim/bundle/DrawIt/plugin/cecutil.vim
+579.481  000.683  000.683: sourcing /home/daniel/.vim/bundle/vim-qthelp/plugin/qthelp.vim
+582.795  000.327  000.327: sourcing /home/daniel/.vim/bundle/vim-bitbake/plugin/newbb.vim
+583.963  000.208  000.208: sourcing /home/daniel/.vim/bundle/vim-bitbake/plugin/newbbappend.vim
+588.342  000.206  000.206: sourcing /usr/share/vim/vim74/plugin/getscriptPlugin.vim
+590.102  000.461  000.461: sourcing /usr/share/vim/vim74/plugin/gzip.vim
+592.708  000.668  000.668: sourcing /usr/share/vim/vim74/plugin/logiPat.vim
+594.371  000.386  000.386: sourcing /usr/share/vim/vim74/plugin/matchparen.vim
+596.990  001.395  001.395: sourcing /usr/share/vim/vim74/plugin/netrwPlugin.vim
+598.499  000.043  000.043: sourcing /usr/share/vim/vim74/plugin/rrhelper.vim
+599.768  000.088  000.088: sourcing /usr/share/vim/vim74/plugin/spellfile.vim
+601.836  000.885  000.885: sourcing /usr/share/vim/vim74/plugin/tarPlugin.vim
+603.149  000.170  000.170: sourcing /usr/share/vim/vim74/plugin/tohtml.vim
+604.311  000.261  000.261: sourcing /usr/share/vim/vim74/plugin/vimballPlugin.vim
+605.668  000.372  000.372: sourcing /usr/share/vim/vim74/plugin/zipPlugin.vim
+611.038  000.157  000.157: sourcing /home/daniel/.vim/bundle/ultisnips/after/plugin/UltiSnips_after.vim
+613.914  000.144  000.144: sourcing /home/daniel/.vim/bundle/ctrlsf.vim/after/plugin/ctrlsf.vim
+616.298  096.315: loading plugins
+617.924  001.626: loading packages
+617.935  000.011: inits 3
+617.955  000.020: reading viminfo
+617.970  000.015: setting raw mode
+617.987  000.017: start termcap
+618.034  000.047: clearing screen
+634.334  001.257  001.257: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions.vim
+637.924  000.235  000.235: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/quickfix.vim
+640.625  000.132  000.132: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/netrw.vim
+643.477  000.213  000.213: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/ctrlp.vim
+646.405  000.275  000.275: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tagbar.vim
+653.368  000.595  000.595: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/util.vim
+656.454  000.155  000.155: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/wordcount.vim
+659.475  000.408  000.408: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline.vim
+662.231  000.165  000.165: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/autoshow.vim
+667.709  000.289  000.289: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/tabs.vim
+670.865  000.320  000.320: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/buffers.vim
+673.687  000.090  000.090: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tmuxline.vim
+676.494  000.080  000.080: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/keymap.vim
+712.338  000.141  000.141: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/section.vim
+715.660  000.293  000.293: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+730.075  000.145  000.145: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/themes.vim
+731.083  004.290  004.145: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/themes/dark.vim
+746.429  000.081  000.081: sourcing /home/daniel/.vim/bundle/tmuxline.vim/autoload/tmuxline/api.vim
+750.213  000.244  000.244: sourcing /home/daniel/.vim/bundle/tmuxline.vim/autoload/tmuxline/util.vim
+753.099  000.261  000.261: sourcing /home/daniel/.vim/bundle/tmuxline.vim/autoload/tmuxline.vim
+755.812  000.098  000.098: sourcing /home/daniel/.vim/bundle/tmuxline.vim/autoload/tmuxline/presets/full.vim
+758.433  000.126  000.126: sourcing /home/daniel/.vim/bundle/tmuxline.vim/autoload/tmuxline/builder.vim
+811.919  000.762  000.762: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/builder.vim
+815.033  000.182  000.182: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/default.vim
+909.158  280.432: opening buffers
+912.850  000.517  000.517: sourcing /home/daniel/.vim/bundle/vim-gitgutter/autoload/gitgutter.vim
+913.280  003.605: BufEnter autocommands
+913.296  000.016: editing files in windows
+918.106  000.194  000.194: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/buflist.vim
+922.906  000.452  000.452: sourcing /home/daniel/.vim/bundle/The-NERD-tree/syntax/nerdtree.vim
+939.543  000.437  000.437: sourcing /home/daniel/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+1032.080  001.373  001.373: sourcing /home/daniel/.vim/bundle/YouCompleteMe/autoload/youcompleteme.vim
+1646.336  731.584: VimEnter autocommands
+1646.407  000.071: before starting main loop
+1652.167  000.515  000.515: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/ctrlspace.vim
+1656.697  000.472  000.472: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/builder.vim
+1663.186  000.124  000.124: sourcing /home/daniel/.vim/bundle/vim-airline/autoload/airline/extensions/tabline/formatters/default.vim
+1753.808  106.290: first screen update
+1753.814  000.006: --- VIM STARTED ---
