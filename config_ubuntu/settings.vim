@@ -74,3 +74,6 @@ set cino=:0g0t0(sus
 set tags=tags;
 set autochdir
 
+set viminfo='10,\"100,:20,%,n~/.viminfo 
+au BufReadPost * if line("'\"") > 0|if line("'\"") <= line("$")|exe("norm '\"")|else|exe "norm $"|endif|endif"'")"'")"'")
+
