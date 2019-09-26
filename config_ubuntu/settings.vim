@@ -69,3 +69,8 @@ set shiftwidth=4
 
 set cino=:0g0t0(sus
 
+"ctags
+""
+set tags=tags;
+set autochdir
+

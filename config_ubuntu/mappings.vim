@@ -70,6 +70,6 @@ nmap T O<ESC>j
 "nmap <leader>T :CtrlPTag<CR>
 "nmap <leader>e :CtrlPBuffer<CR>
 
-map <F10> :set paste<CR>
-map <F11> :set nopaste<CR>
+"map <F10> :set paste<CR>
+"map <F11> :set nopaste<CR>
 
