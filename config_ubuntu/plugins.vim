@@ -48,7 +48,8 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTree
 "标签导航
 Bundle 'majutsushi/tagbar'
 nmap <F9> :TagbarToggle<CR>
-let g:tagbar_autofocus = 1
+let g:tagbar_autofocus = 0
+let g:tagbar_sort = 0
 
 "自动补全单引号，双引号等
 Bundle 'jiangmiao/auto-pairs'
