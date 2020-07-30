@@ -5,9 +5,9 @@
 "=============================================
 
 " 修改主题和颜色展示
-"colorscheme molokai
+colorscheme molokai
 "colorscheme solarized
-colorscheme desert
+"colorscheme desert
 set background=dark
 set term=screen
 set t_Co=256
