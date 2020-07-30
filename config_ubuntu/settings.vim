@@ -28,7 +28,7 @@ set noswapfile
 
 " 突出显示当前行等
 " set cursorcolumn
-set cursorline " 突出显示当前行
+"set cursorline " 突出显示当前行
 
 "- 则点击光标不会换,用于复制
 "set mouse =a
