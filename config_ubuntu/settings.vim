@@ -77,3 +77,4 @@ set autochdir
 set viminfo='10,\"100,:20,%,n~/.viminfo 
 au BufReadPost * if line("'\"") > 0|if line("'\"") <= line("$")|exe("norm '\"")|else|exe "norm $"|endif|endif"'")"'")"'")
 
+:set nowrapscan " 设置vim查找时不循环查找
